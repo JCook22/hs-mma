@@ -13,6 +13,8 @@ h3 {
     font-family: 'Inter', sans-serif;
     font-size: 110%;
     letter-spacing: 0.1rem;
+    line-height: 0.3rem;
+    color: black;
 }
 
 #menu {
@@ -20,20 +22,29 @@ h3 {
     letter-spacing: 0.1rem;
     list-style-type: none;
     float: right;
-    line-height: 0.2rem;
+    line-height: 0.5rem;
 }
 
 #menu li {
     margin-right: 0.1rem;
     float: left;
-    line-height: 0.3rem;
 }
 
 #menu a {
     text-decoration: none;
     padding-left: 0.1rem;
+    color: black;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #000;
 }
 
 #cover-text {
     clear: both;
 }
+
+.active {
+    border-bottom: 1px solid #000;
+}
+
