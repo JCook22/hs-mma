@@ -40,11 +40,29 @@ h3 {
     border-bottom: 1px solid #000;
 }
 
-#cover-text {
-    clear: both;
-}
-
 .active {
     border-bottom: 1px solid #000;
 }
 
+#hero-image {
+    height: 350px;
+    width: 100%;
+    background: url(../images/mp1-hero-image.jpg) no-repeat center center;
+}
+
+#hero-outer {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+}
