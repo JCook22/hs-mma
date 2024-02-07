@@ -104,3 +104,8 @@ footer {
 #socials li {
     display: inline;
 }
+
+#why-join {
+    text-align: center;
+    text-transform: uppercase;
+}
