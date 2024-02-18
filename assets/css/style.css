@@ -8,6 +8,13 @@ h3 {
     font-family: 'Inter', sans-serif;
 }
 
+
+#classes-intro {
+    clear: both;
+    text-align: center;
+    color: green;
+}
+
 #logo {
     float: left;
     font-family: 'Inter', sans-serif;
@@ -108,4 +115,9 @@ footer {
 #why-join {
     text-align: center;
     text-transform: uppercase;
+}
+
+#class-intro {
+    text-align: center;
+    clear: both;
 }
