@@ -8,6 +8,10 @@ h3 {
     font-family: 'Inter', sans-serif;
 }
 
+table, th, td {
+    border: 1px solid;
+}
+
 #logo {
     float: left;
     font-family: 'Inter', sans-serif;
@@ -108,4 +112,20 @@ footer {
 #why-join {
     text-align: center;
     text-transform: uppercase;
+}
+
+#classes-intro {
+    text-align: center;
+    clear: both;
+}
+
+#classes-timetable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+@media only screen and (max-width: 600px) {
+    #classes-timetable {
+        font-size: 50%;
+    }
 }
