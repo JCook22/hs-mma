@@ -124,6 +124,11 @@ footer {
     border-collapse: collapse;
 }
 
+#enquiries {
+    margin: 0 auto;
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
     #classes-timetable {
         font-size: 50%;
