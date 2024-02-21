@@ -39,20 +39,30 @@
       </nav>
     </header>
     <section>
-        <h2>Please take a minute to fill in this short sign up form. Once you have submitted you will receive a call from one of our advisors to discuss which of our plans is best for you.</h2>
-        <form action="https://formdump.codeinstitute.net/" method="POST">
+      <div id="form-intro">
+        <p>Please take a minute to fill in this short sign up form. Once you have submitted you will receive a call from one of our advisors to discuss which of our plans is best for you.</p>
+      </div>
+        <form action="https://formdump.codeinstitute.net/" method="POST" id="form">
             <label for="name">Full name:</label>
             <input id="name" type="text" placeholder="Enter your full name.">
+            <br>
             <label for="date-of-birth">Date of birth:</label>
             <input id="date-of-birth" type="date">
+            <br>
             <label for="gender">Gender:</label>
-            <input type="radio" name="gender" value="male"><p>Male</p>
-            <input type="radio" name="gender" value="female"><p>Female</p>
-            <input type="radio" name="gender" value="other"><p>Other</p>
+            <input type="radio" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="female">
+            <label for="female">Female</label>
+            <input type="radio" name="gender" value="other">
+            <label for="other">Other</label>
+            <br>
             <label for="email">Email:</label>
             <input id="email" type="email" placeholder="Enter your email address.">
+            <br>
             <label for="telephone">Telephone number:</label>
             <input id="telephone" type="tel">
+            <br>
             <input type="submit" value="Submit">
         </form>
     </section>

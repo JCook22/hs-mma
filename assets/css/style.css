@@ -129,8 +129,30 @@ footer {
     text-align: center;
 }
 
+#form-intro {
+    text-align: center;
+    clear: both;
+}
+
+#form {
+    width: 33%;
+    border: 1px solid black;
+    margin: 10% auto;
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
     #classes-timetable {
         font-size: 50%;
+    }
+
+    #form {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #form {
+        width: 75%;
     }
 }
