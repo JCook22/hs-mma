@@ -26,9 +26,7 @@ HS MMA is a website for a martial arts gym based in Heatherside, England. The si
 
 ## Testing
 
-### Validator Testing
-
-### Unfixed Bugs
+Testing documentation can be found separately here: [TESTING.md](TESTING.md).
 
 ## Deployment
 
