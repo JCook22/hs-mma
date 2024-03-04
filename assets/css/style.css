@@ -152,7 +152,12 @@ footer {
 #form {
     width: 33%;
     border: 1px solid black;
-    margin: 10% auto;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#thank-you {
     text-align: center;
 }
 
