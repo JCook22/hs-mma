@@ -34,4 +34,8 @@ Testing documentation can be found separately here: [TESTING.md](TESTING.md).
 
 ### Content
 
+To center the cover text I learnt from this tutorial on W3Schools. (https://www.w3schools.com/howto/howto_css_image_text.asp)
+
 ### Media
+
+For the hero image I used Shutterstock. (https://www.shutterstock.com/image-photo/noname-image-kickboxer-on-dark-background-2146195251)
