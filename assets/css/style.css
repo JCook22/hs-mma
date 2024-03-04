@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 10px;
 }
 
 h1,
@@ -71,6 +72,10 @@ table, th, td {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+#welcome {
+    text-align: center;
+}
+
 footer {
     height: auto;
     position: relative;
@@ -82,6 +87,7 @@ footer {
     font-size: 50%;
     float: left;
     text-align: center;
+    padding-top: 10px;
 }
 
 #footer-socials {
@@ -94,6 +100,7 @@ footer {
     top: 50%;
     left: 50%;
     transform: (-50%, -50%);
+    padding-top: 10px;
 }
 
 #socials {
@@ -109,9 +116,17 @@ footer {
     display: inline;
 }
 
+#why-and-reasons {
+    padding-bottom: 10px;
+}
+
 #why-join {
     text-align: center;
     text-transform: uppercase;
+}
+
+.reasons {
+    text-align: center;
 }
 
 #classes-intro {
@@ -154,5 +169,15 @@ footer {
 @media only screen and (max-width: 1200px) {
     #form {
         width: 75%;
+    }
+
+    body {
+        margin: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        margin: 0 30px;
     }
 }
