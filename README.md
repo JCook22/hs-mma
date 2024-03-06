@@ -49,7 +49,7 @@ This is the classes timetable found on the classes page. It's purpose is to show
 
 #### Sign Up Form
 
-![Sign-Up-Form](assets/images/sign-up-form.png)  
+![Sign-Up-Form](assets/images/sign-up-formv2.png)  
 This is the sign up form found on the sign up page. This allows new users to enter their personal information so they can enrol with the gym. For now it is limited to requesting a chat with an advisor at the gym, so the staff and visitor can work on creating their bespoke membership plan.
 
 ### Features Left to Implement
