@@ -64,7 +64,7 @@ In the future it would be much more efficient if the classes timetable was direc
 
 #### Sign In Feature
 
-Another interesting feature would be to allow users to create accounts and sign in upon visiting the site. This would have a lot of benefits; such as being able to link your account to the specific classes you attend so you can receive relevant updates, connect with other users, enhance visibility of classes already enrolled in and many more.
+Another interesting feature would be to allow users to create accounts and sign in upon visiting the site. This would have a lot of benefits; such as being able to link your account to the specific classes you attend so you can receive relevant updates, connect with other users, enhance visibility of classes already enrolled in and much more.
 
 ## Testing
 
@@ -86,6 +86,8 @@ HTML, CSS, JavaScript
 - Chrome Developer Tools - Used to test site responsiveness and design features.
 
 ## Deployment
+
+This site was developed using [codeanywhere](https://codeanywhere.com/) and [gitpod](https://www.gitpod.io/), then committed to git and pushed to github.
 
 ## Credits
 
