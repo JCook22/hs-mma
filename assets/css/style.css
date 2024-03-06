@@ -99,7 +99,6 @@ footer {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: (-50%, -50%);
     padding-top: 10px;
 }
 
