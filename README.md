@@ -70,6 +70,21 @@ Another interesting feature would be to allow users to create accounts and sign 
 
 Testing documentation can be found separately here: [TESTING.md](TESTING.md).
 
+## Technologies
+
+### Languages
+
+HTML, CSS, JavaScript
+
+### Libraries & Programs Used
+
+- Balsamiq - Used to create wireframes.
+- Git - Used for version control.
+- Github - Used to save site files.
+- Google Fonts - Used to import fonts.
+- Font Awesome - Used to import icons.
+- Chrome Developer Tools - Used to test site responsiveness and design features.
+
 ## Deployment
 
 ## Credits
