@@ -44,3 +44,41 @@ I used the W3C validator to check the HTML and CSS for the site. All tests passe
 
 ### Feature Testing
 
+#### Site-wide features
+
+##### Logo
+
+![HS-MMA-Logo](assets/images/testing/hs-mma-logo.png)
+- Expected - Should take the user back to the index page if the user clicks on it.
+- Testing - Will click on the logo on the classes page to go to the index page.
+- Result - The site behaved as expected and I was taken to the index page.
+
+##### Link hover effect
+
+![Link-hover-effect](assets/images/testing/hover-effect.png)
+- Expected - The Navbar links should be underlined when the user hovers over them.
+- Testing - Will hover over the classes page whilst on the index page.
+- Result - The site behaved as expected and the Classes page was underlined when hovered over.
+
+##### Navbar home link
+
+![Home-link](assets/images/testing/home-link.png)
+- Expected - Should take the user to the index page if the user clicks on it.
+- Testing - Will click on the index link on the sign up page.
+- Result - The site behaved as expected and I was taken to the index page.
+
+##### Navbar classes link
+
+![Classes-link](assets/images/testing/classes-link.png)
+- Expected - Should take the user to the classes page if the user clicks on it.
+- Testing - Will click on the classes link on the index page.
+- Result - The site behaved as expected and I was taken to the classes page.
+
+##### Navbar sign up link
+
+![Sign-up-link](assets/images/testing/sign-up-link.png)
+- Expected - Should take the user to the sign up page if the user clicks on it.
+- Testing - Will click on the sign up link on the index page.
+- Result - The site behaved as expected and I was taken to the sign up page.
+
+
