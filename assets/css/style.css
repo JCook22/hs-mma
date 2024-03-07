@@ -1,3 +1,5 @@
+/* site-wide base styling */
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0 10px;
@@ -9,9 +11,7 @@ h3 {
     font-family: 'Inter', sans-serif;
 }
 
-table, th, td {
-    border: 1px solid;
-}
+/* navbar styling */
 
 #logo {
     float: left;
@@ -49,32 +49,7 @@ table, th, td {
     border-bottom: 1px solid #000;
 }
 
-#hero-image {
-    height: 350px;
-    width: 100%;
-    background: url(../images/mp1-hero-image.jpg) no-repeat center center;
-}
-
-#hero-outer {
-    height: 350px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-#cover-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-#welcome {
-    text-align: center;
-}
+/* footer styling */
 
 footer {
     height: auto;
@@ -115,6 +90,35 @@ footer {
     display: inline;
 }
 
+/* index page styling */
+
+#hero-image {
+    height: 350px;
+    width: 100%;
+    background: url(../images/mp1-hero-image.jpg) no-repeat center center;
+}
+
+#hero-outer {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#welcome {
+    text-align: center;
+}
+
 #why-and-reasons {
     padding-bottom: 10px;
 }
@@ -126,6 +130,12 @@ footer {
 
 .reasons {
     text-align: center
+}
+
+/* classes page styling */
+
+table, th, td {
+    border: 1px solid;
 }
 
 #classes-intro {
@@ -143,6 +153,8 @@ footer {
     text-align: center;
 }
 
+/* sign-up page styling */
+
 #form-intro {
     text-align: center;
     clear: both;
@@ -159,6 +171,8 @@ footer {
 #thank-you {
     text-align: center;
 }
+
+/* media queries */
 
 @media only screen and (max-width: 600px) {
     #classes-timetable {
