@@ -81,4 +81,30 @@ I used the W3C validator to check the HTML and CSS for the site. All tests passe
 - Testing - Will click on the sign up link on the index page.
 - Result - The site behaved as expected and I was taken to the sign up page.
 
+##### Footer facebook link
 
+![Facebook-link](assets/images/testing/facebook-link.png)
+- Expected - Should open facebook.com in a new tab if the user clicks on it.
+- Testing - Will click on the facebook link.
+- Result - The site behaved as expected and facebook.com opened in a new tab.
+
+##### Footer X link
+
+![X-link](assets/images/testing/x-link.png)
+- Expected - Should open twitter.com in a new tab if the user clicks on it.
+- Testing - Will click on the x link.
+- Result - The site behaved as expected and twitter.com opened in a new tab.
+
+##### Footer instagram link
+
+![Instagram-link](assets/images/testing/instagram-link.png)
+- Expected - Should open instagram.com in a new tab if the user clicks on it.
+- Testing - Will click on the instagram link.
+- Result - The site behaved as expected and instagram.com opened in a new tab.
+
+##### Footer youtube link
+
+![Youtube-link](assets/images/testing/youtube-link.png)
+- Expected - Should open youtube.com in a new tab if the user clicks on it.
+- Testing - Will click on the youtube link.
+- Result - The site behaved as expected and youtube.com opened in a new tab.
