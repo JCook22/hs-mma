@@ -108,3 +108,19 @@ I used the W3C validator to check the HTML and CSS for the site. All tests passe
 - Expected - Should open youtube.com in a new tab if the user clicks on it.
 - Testing - Will click on the youtube link.
 - Result - The site behaved as expected and youtube.com opened in a new tab.
+
+#### Specific features
+
+##### Form input fields
+
+![Form-input-fields](assets/images/testing/form-input-fields.png)
+- Expected - Should not allow the user to input incorrect data types to the input areas and only welcome the correct data types.
+- Testing - Will fill in the form with fake user details to see if it accepts the data.
+- Result - The site behaved as expected and allowed the user to complete the fields and submit the form.
+
+##### Form submission
+
+![Form-submission](assets/images/testing/form-submission.png)
+- Expected - Should tell the user they have submitted the form correctly when the user has filled in their details and clicked submit.
+- Testing - Will use a fake example of a user to complete the form.
+- Result - The site behaved as expected and congratulated the user for submitting the form correctly.
