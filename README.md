@@ -4,6 +4,26 @@ HS MMA is a website for a martial arts gym based in Heatherside, England. The si
 
 ## User Experience
 
+### Design
+
+#### Typography
+
+#### Icons
+
+#### Wireframes
+
+##### Index
+
+![Index-page-wireframe](assets/images/readme/index-wireframe.png)
+
+##### Classes
+
+![Classes-page-wireframe](assets/images/readme/classes-wireframe.png)
+
+##### Sign Up
+
+![Sign-up-page-wireframe](assets/images/readme/sign-up-wireframe.png)
+
 ### User Stories
 
 #### First Time Visitor Goals
