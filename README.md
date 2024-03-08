@@ -8,7 +8,59 @@ HS MMA is a website for a martial arts gym based in Heatherside, England. The si
 
 #### Typography
 
+On the site I decided to use two different fonts from Google Fonts. These are Roboto and Inter. I chose to use these fonts because they were both identified as popular fonts at the time of design. They were similar enough to look visually appealing whilst providing a slight distinction between paragraphs and headings.
+
 #### Icons
+
+I have used multiple Icons from Font Awesome to complete this project.
+
+##### Fist
+
+![Fist-icon](assets/images/readme/fist-icon.png)
+
+This icon was chosen as it fits the companies theme of hand to hand combat and it conveys strength, resilience and determination.
+
+##### Dumbbell
+
+![Dumbbell-icon](assets/images/readme/dumbbell-icon.png)
+
+This icon was chosen for the get fit section because it was a good visual aid to go along with the message. This is because it symbolises fitness and working out.
+
+##### Comments
+
+![Comments-icon](assets/images/readme/comments-icon.png)
+
+This icon was chosen for the stay social section because it was a good visual aid to go along with the message. This is because it implies two people talking and socialising.
+
+##### User shield
+
+![User-shield-icon](assets/images/readme/user-shield-icon.png)
+
+This icon was chosen for the gain confidence section because it was a good visual aid to go along with the message. This is because it shows the user being safe or protected, which fits well with the theme of protecting yourself and others.
+
+##### Facebook
+
+![Facebook-icon](assets/images/testing/facebook-link.png)
+
+This icon was chosen for the link as it is immediately clear to the user what it is for. The square variant was chosen to be consistent across the 4 social media links.
+
+##### X
+
+![X-icon](assets/images/testing/x-link.png)
+
+This icon was chosen for the link as it is immediately clear to the user what it is for. The square variant was chosen to be consistent across the 4 social media links.
+
+##### Instagram
+
+![Instagram-icon](assets/images/testing/instagram-link.png)
+
+This icon was chosen for the link as it is immediately clear to the user what it is for. The square variant was chosen to be consistent across the 4 social media links.
+
+##### Youtube
+
+![Youtube-icon](assets/images/testing/youtube-link.png)
+
+This icon was chosen for the link as it is immediately clear to the user what it is for. The square variant was chosen to be consistent across the 4 social media links.
 
 #### Wireframes
 
