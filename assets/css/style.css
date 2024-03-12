@@ -18,9 +18,8 @@ h3 {
 #logo {
     float: left;
     font-family: 'Inter', sans-serif;
-    font-size: 110%;
+    font-size: 150%;
     letter-spacing: 0.1rem;
-    line-height: 0.3rem;
     color: black;
 }
 
@@ -29,7 +28,7 @@ h3 {
     letter-spacing: 0.1rem;
     list-style-type: none;
     float: right;
-    line-height: 0.5rem;
+    line-height: 2rem;
 }
 
 #menu li {
