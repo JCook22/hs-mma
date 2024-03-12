@@ -38,7 +38,7 @@ h3 {
 
 #menu a {
     text-decoration: none;
-    padding-left: 0.1rem;
+    padding-left: 1rem;
     color: black;
 }
 
@@ -118,10 +118,17 @@ footer {
 
 #welcome {
     text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #why-and-reasons {
     padding-bottom: 10px;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #why-join {
@@ -176,6 +183,12 @@ table, th, td {
 /* media queries */
 
 @media only screen and (max-width: 600px) {
+    #menu {
+        clear: both;
+        margin: auto;
+
+    }
+
     #classes-timetable {
         font-size: 50%;
     }
@@ -191,12 +204,12 @@ table, th, td {
     }
 
     body {
-        margin: 0 20px;
+        margin: 0 5%;
     }
 }
 
 @media only screen and (min-width: 1200px) {
     body {
-        margin: 0 30px;
+        margin: 0 15%;
     }
 }
