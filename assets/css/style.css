@@ -120,6 +120,7 @@ footer {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    line-height: 1.5rem;
 }
 
 #why-and-reasons {
@@ -128,6 +129,7 @@ footer {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    line-height: 1.5rem;
 }
 
 #why-join {
@@ -185,8 +187,7 @@ table, th, td {
     #menu {
         clear: both;
         margin: auto;
-
-    }
+   }
 
     #classes-timetable {
         font-size: 50%;
