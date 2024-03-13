@@ -207,6 +207,15 @@ input[type="radio"] {
     display: inline;
 }
 
+button {
+    width: 20%;
+}
+
+#btn-container {
+    text-align: center;
+    padding-top: 8px;
+}
+
 /* media queries */
 
 @media only screen and (max-width: 600px) {
