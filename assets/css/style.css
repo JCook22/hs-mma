@@ -192,6 +192,21 @@ label, input {
     text-align: center;
 }
 
+input[type="radio"] {
+    display: inline;
+    width: 10%;
+}
+
+#genders {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#genders > label {
+    display: inline;
+}
+
 /* media queries */
 
 @media only screen and (max-width: 600px) {
