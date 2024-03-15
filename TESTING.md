@@ -6,19 +6,43 @@ I used the W3C validator to check the HTML and CSS for the site. All tests passe
 
 ### HTML
 
--index.html
+index.html
 ![index.html-test](assets/images/testing/index-test.png)
 
--classes.html
+classes.html
 ![classes.html-test](assets/images/testing/classes-test.png)
 
--sign-up.html
+sign-up.html
 ![sign-up.html-test](assets/images/testing/sign-up-test.png)
 
 ### CSS
 
--style.css
+style.css
 ![style.css-test](assets/images/testing/css-test.png)
+
+## Lighthouse Testing
+
+### Mobile
+
+index.html  
+![index-lighthouse-test-mobile](assets/images/testing/index-lighthouse-test-mob.png)
+
+classes.html  
+![classes-lighthouse-test-mobile](assets/images/testing/classes-lighthouse-test-mob.png)
+
+signup.html  
+![sign-up-lighthouse-test-mobile](assets/images/testing/signup-lighthouse-test-mob.png)
+
+### Desktop
+
+index.html  
+![index-lighthouse-test-desktop](assets/images/testing/index-lighthouse-test-desk.png)
+
+classes.html  
+![classes-lighthouse-test-desktop](assets/images/testing/classes-lighthouse-test-desk.png)
+
+signup.html  
+![sign-up-lighthouse-test-desktop](assets/images/testing/signup-lighthouse-test-desk.png)
 
 ## Manual Testing 
 
