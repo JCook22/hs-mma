@@ -101,7 +101,7 @@ This is the navbar which can be found at the top of all 3 of the sites pages. Th
 
 #### Why Join Section
 
-![Why-Join](assets/images/readme/why-join.png)
+![Why-Join](assets/images/readme/why-join.png)  
 This is the why join section found on the home page. The purpose of this section is to re-assure and inspire the new users with less experience to sign up and get involved with the gym.
 
 #### Contact Details
@@ -121,7 +121,7 @@ This is the classes timetable found on the classes page. It's purpose is to show
 
 #### Sign Up Form
 
-![Sign-Up-Form](assets/images/readme/sign-up-formv2.png)  
+![Sign-Up-Form](assets/images/readme/sign-up-form.png)  
 This is the sign up form found on the sign up page. This allows new users to enter their personal information so they can enrol with the gym. For now it is limited to requesting a chat with an advisor at the gym, so the staff and visitor can work on creating their bespoke membership plan.
 
 ### Features Left to Implement
@@ -156,10 +156,17 @@ HTML, CSS, JavaScript
 - Google Fonts - Used to import fonts.
 - Font Awesome - Used to import icons.
 - Chrome Developer Tools - Used to test site responsiveness and design features.
+- PageSpeed - Used to lighthouse test the site.
 
 ## Deployment
 
-This site was developed using [codeanywhere](https://codeanywhere.com/) and [gitpod](https://www.gitpod.io/), then committed to git and pushed to github.
+This site was developed using [codeanywhere](https://codeanywhere.com/) and [GitPod](https://www.gitpod.io/), then committed to git and pushed to [GitHub](https://github.com/).
+
+This site is deployed using GitPages. The following steps must be taken:  
+1 - Locate the github repository on GitHub. [Here](https://github.com/JCook22/hs-mma)
+2 - Find settings from the options at the top of the screen.
+3 - Navigate down to the Pages section.
+4 - From the source drop-down box select Deploy from a branch.
 
 ## Credits
 
