@@ -2,6 +2,30 @@
 
 HS MMA is a website for a martial arts gym based in Heatherside, England. The sites target audience is anyone interested in martial arts and self defence. HS MMA will be useful because it will inform visitors of the services provided, available classes and necessary contact information.
 
+## Table of Contents
+**[1. User Experience](#user-experience)**
+* [1.1 Design](#design)
+* [1.2 User Stories](#user-stories)
+
+**[2. Features](#features)**
+* [2.1 Existing Features](#existing-features)
+* [2.2 Features Left to Implement](#features-left-to-implement)
+
+**[3. Testing](#testing)**
+
+**[4. Technologies](#technologies)**
+* [4.1 Languages](#languages)
+* [4.2 Libraries & Programs Used](#libraries--programs-used)
+
+**[5. Deployment](#deployment)**  
+* [5.1 Deploying this repository](#deploying-this-repository)
+* [5.2 Cloning this repository](#cloning-this-repository)
+* [5.3 Forking this repository](#forking-this-repository)
+
+**[6. Credits](#credits)**
+* [6.1 Content](#content)
+* [6.2 Media](#media)
+
 ## User Experience
 
 ### Design
