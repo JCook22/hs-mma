@@ -162,11 +162,28 @@ HTML, CSS, JavaScript
 
 This site was developed using [codeanywhere](https://codeanywhere.com/) and [GitPod](https://www.gitpod.io/), then committed to git and pushed to [GitHub](https://github.com/).
 
-This site is deployed using GitPages. The following steps must be taken:  
-1 - Locate the github repository on GitHub. [Here](https://github.com/JCook22/hs-mma)
-2 - Find settings from the options at the top of the screen.
-3 - Navigate down to the Pages section.
-4 - From the source drop-down box select Deploy from a branch.
+### Deploying this repository
+
+This repository is deployed using GitPages. The following steps must be taken:  
+1. Locate the github repository on GitHub. [Here](https://github.com/JCook22/hs-mma)  
+2. Find settings from the options at the top of the screen.  
+3. Navigate down to the Pages section.  
+4. From the source drop-down box select Deploy from a branch and from the branches select Main and save.
+5. The page should be live and you can click on Visit site.
+
+### Cloning this repository
+
+To clone this repository. The following steps must be taken:
+1. Locate the github repository on GitHub. [Here](https://github.com/JCook22/hs-mma)  
+2. Click on the green Code button and select whether you want to clone it with HTTPS, SSH or GitHub CLI. Copy the URL provided.  
+3. Open a terminal in your preferred code editor and select a new location for the cloned directory.
+4. Type "git clone" in the terminal, followed by the link you copied in step 2 and press Enter.
+
+### Forking this repository
+
+To fork this repository. The following steps must be taken:
+1. Locate the github repository on GitHub. [Here](https://github.com/JCook22/hs-mma)  
+2. Click on the Fork button above the About section.
 
 ## Credits
 
